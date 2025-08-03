@@ -1,15 +1,15 @@
 # Autonomous FireFighting Vehicle
 
 
-An IoT-based robotic vehicle designed to detect and extinguish fire without human help. Ideal for areas with limited fire response access like forests or rural regions.
+  An IoT-based IoT-based autonomous fire-fighting vehicle which detects and extinguishes fire without any human intervention. Represents the implementation of the advanced technology in the field of firefighting technology with the combination of safety and innovation to fight with the growing challenges of fire emergencies.
 
 ---
 
 ## Project Screenshots
 
-![Full System Integration](image-3.png)
-![Picture of vehicle before water dispersion](image-4.png)
-![Picture of vehicle after water dispersion](image-5.png)
+![Full System Integration](https://github.com/nirxgr/AFV-Images/blob/main/image-3.png)
+![Picture of vehicle before water dispersion](https://github.com/nirxgr/AFV-Images/blob/main/image-4.png)
+![Picture of vehicle after water dispersion](https://github.com/nirxgr/AFV-Images/blob/main/image-5.png)
 
 ---
 
@@ -43,4 +43,4 @@ An IoT-based robotic vehicle designed to detect and extinguish fire without huma
 
 ## Circuit Diagram
 
-![Circuit Diagram](image-1.png)
+![Circuit Diagram](https://github.com/nirxgr/AFV-Images/blob/main/image-1.png)
