@@ -25,7 +25,7 @@ void setup()
   Serial.begin(9600);
   Serial.println("System Starting...");
 
-  // Set all the motor control pins to outputs
+  // Set all the motor control pins to output
   pinMode(enA, OUTPUT);
   pinMode(enB, OUTPUT);
   pinMode(in1, OUTPUT);
@@ -70,7 +70,7 @@ void loop()
   Serial.print(", Right: ");
   Serial.println(flameRight);
 
-  // conditions
+  // conditions for flame detection
   if (flameLeft < 100 || flameCenter < 100 || flameRight < 100)
   {
     Serial.println("All less than boundary.");
