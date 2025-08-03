@@ -1,6 +1,5 @@
 # Autonomous FireFighting Vehicle
 
----
 
 An IoT-based robotic vehicle designed to detect and extinguish fire without human help. Ideal for areas with limited fire response access like forests or rural regions.
 
